@@ -10,10 +10,3 @@
 </p>
 
 <p align="center"><b>Demikernel is a library operating system (LibOS) architecture designed for microsecond-scale datacenters.</b></p>
-
-### Repository Organization
-
-- [demikernel](https://github.com/demikernel/demikernel) - Main Demikernel Repository
-- [inetstack](https://github.com/demikernel/inetstack) - Demikernel's TCP/UDP Stack
-- [runtime](https://github.com/demikernel/runtime) - Demikernel's Runtime
-- [scheduler](https://github.com/demikernel/scheduler) - Demikernel's Scheduler
