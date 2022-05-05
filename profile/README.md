@@ -1,5 +1,5 @@
 <h1 align="center">
-  Demikernel
+  <img src="https://user-images.githubusercontent.com/4939789/166924815-e63fc526-0bb2-4dc5-be17-8bdcd91ccc3d.png" \>
 </h1>
 <p align="center">
   <a href="https://join.slack.com/t/demikernel/shared_invite/zt-11i6lgaw5-HFE_IAls7gUX3kp1XSab0g">
