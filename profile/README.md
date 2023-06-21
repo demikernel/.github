@@ -9,4 +9,14 @@
   <img src="https://img.shields.io/github/license/demikernel/demikernel" />
 </p>
 
-<p align="center"><b>Demikernel is a library operating system (LibOS) architecture designed for microsecond-scale datacenters.</b></p>
+<p align="center">
+  <b>Demikernel is a library operating system (LibOS) architecture designed for microsecond-scale datacenters.</b>
+  <br><br>
+  <b>⚠️ Main Repository Moved ⚠️</b>
+  <br>
+  <a href="https://github.com/microsoft/demikernel">https://github.com/microsoft/demikernel</a></p>
+</p>
+
+
+
+
